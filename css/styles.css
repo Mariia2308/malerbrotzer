@@ -602,7 +602,7 @@ img {
 .team__specialist {
   color: var(--color-grey);
   font-weight: 500;
-  font-size: 20px;
+  font-size: 28px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
@@ -612,7 +612,7 @@ img {
 .team__job-title {
   color: var(--color-slate);
   font-weight: 400;
-  font-size: 16px;
+  font-size: 22px;
   line-height: 1.5;
   text-align: center;
   margin-bottom: 8px;
@@ -623,6 +623,18 @@ img {
   align-items: center;
   justify-content: center;
   gap: 24px;
+}
+
+.team__description {
+  padding: 20px 16px 0 16px;
+  margin-bottom: 16px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--color-slate);
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.43;
+
 }
 
 .team__item-icon {
