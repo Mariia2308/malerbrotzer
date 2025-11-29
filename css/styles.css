@@ -496,7 +496,7 @@ img {
 
 @media screen and (max-width: 1157px) {
   .works {
-    display: none;
+    padding-bottom: 60px;
   }
 }
 
